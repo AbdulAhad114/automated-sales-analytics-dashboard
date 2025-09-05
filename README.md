@@ -2,29 +2,38 @@
 # Sales Analytics Dashboard
 ## Project Overview
 
-This project delivers a fully automated, dynamic Excel dashboard designed to provide business users with deep insights into their sales data. By integrating data collection, cleaning, analysis, and visualization, the dashboard empowers users to make informed, data-driven decisions without needing technical expertise.
+This project delivers a fully automated, dynamic Excel dashboard designed to transform raw sales and cost data into insightful, actionable business intelligence. It enables business users to explore key metrics such as revenue, costs, profits, order statuses, and payment methods without needing advanced technical skills.
+
+##Dataset Structure
+The dashboard utilizes the "sales_data" dataset:
+
+-Sheet1 (Sales Orders): Contains transactional sales data with columns like Order ID, Customer Name, Product Category, Product Name, Order Date, Delivered Date, Quantity, Unit Price, Status, Country, and Payment Method.
+
+-Sheet2 (Product Costs): Lists each Product Name alongside its Cost Percentage to calculate total costs and profit margins accurately.
 
 ## Business Challenges Addressed
 
 Organizations often find it difficult to answer:
 
-- Which products generate the highest revenue and profit, and what are their associated costs?
+- Identifying which products generate the highest revenue and profit, including their associated costs.
 
-- What trends exist in financial metrics such as revenue, costs, and profit over time?
+- Tracking trends in financial metrics such as revenue, cost, and profit over time.
 
-- How do order statuses (completed, pending, returned) evolve, and what operational patterns emerge?
+- Understanding how order statuses (completed, pending, returned) evolve and identifying operational patterns.
 
-- How are orders distributed by payment method and geography?
+- Analyzing orders by payment method and geographical distribution.
 ## Solution
 This Excel dashboard provides an end-to-end solution by:
 
-- Automating data integration and cleaning from multiple datasets.
+- Automating data integration and cleaning from dataset.
 
-- Presenting interactive visualizations including geographical revenue distribution, revenue/cost/profit by product category, and daily/monthly revenue trends.
+- Visualizing sales revenue by country, revenue, cost, and profit by category.
 
-- Enabling users to explore orders by status and payment methods through intuitive filters.
+- Displaying monthly revenue trends and order statuses interactively.
 
-- Offering real-time updates with minimal manual intervention once set up.
+- Breaking down orders by payment methods with easy-to-use slicers.
+
+- Requiring no manual intervention after initial setup, suitable for business users.
 ## Features
 - Product-level analysis combining sales data with cost percentages to compute profits.
 
