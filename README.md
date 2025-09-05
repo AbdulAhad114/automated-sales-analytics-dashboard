@@ -4,12 +4,12 @@
 
 This project delivers a fully automated, dynamic Excel dashboard designed to transform raw sales and cost data into insightful, actionable business intelligence. It enables business users to explore key metrics such as revenue, costs, profits, order statuses, and payment methods without needing advanced technical skills.
 
-##Dataset Structure
+## Dataset Structure
 The dashboard utilizes the "sales_data" dataset:
 
--Sheet1 (Sales Orders): Contains transactional sales data with columns like Order ID, Customer Name, Product Category, Product Name, Order Date, Delivered Date, Quantity, Unit Price, Status, Country, and Payment Method.
+- Sheet1 (Sales Orders): Contains transactional sales data with columns like Order ID, Customer Name, Product Category, Product Name, Order Date, Delivered Date, Quantity, Unit Price, Status, Country, and Payment Method.
 
--Sheet2 (Product Costs): Lists each Product Name alongside its Cost Percentage to calculate total costs and profit margins accurately.
+- Sheet2 (Product Costs): Lists each Product Name alongside its Cost Percentage to calculate total costs and profit margins accurately.
 
 ## Business Challenges Addressed
 
