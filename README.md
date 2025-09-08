@@ -22,6 +22,7 @@ Organizations often find it difficult to answer:
 - Understanding how order statuses (completed, pending, returned) evolve and identifying operational patterns.
 
 - Analyzing orders by payment method and geographical distribution.
+
 ## Solution
 This Excel dashboard provides an end-to-end solution by:
 
@@ -34,13 +35,3 @@ This Excel dashboard provides an end-to-end solution by:
 - Breaking down orders by payment methods with easy-to-use slicers.
 
 - Requiring no manual intervention after initial setup, suitable for business users.
-## Features
-- Product-level analysis combining sales data with cost percentages to compute profits.
-
-- Visual trend analyses over daily and monthly time frames for revenue, costs, and profits.
-
-- Order status monitoring to highlight completed, pending, and returned orders.
-
-- Breakdown of payment methods to identify customer preferences.
-
-- Geographic revenue mapping with slicers for country and product category
