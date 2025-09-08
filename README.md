@@ -1,5 +1,8 @@
 
 # Sales Analytics Dashboard
+<img width="1312" height="548" alt="sales dashboard" src="https://github.com/user-attachments/assets/2845d018-fa82-419e-b268-107d7d38c18c" />
+
+
 ## Project Overview
 
 This project delivers a fully automated, dynamic Excel dashboard designed to transform raw sales and cost data into insightful, actionable business intelligence. It enables business users to explore key metrics such as revenue, costs, profits, order statuses, and payment methods without needing advanced technical skills.
